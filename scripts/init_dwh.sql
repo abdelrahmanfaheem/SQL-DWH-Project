@@ -7,6 +7,12 @@ Description:
 - Creates the database `datawarehouse`.  
 - Creates schemas `bronze`, `silver`, and `gold` if they do not exist.  
 =========================================
+-- Warnning : 
+   Running the code will drop the database and all data on it will be permanently delete 
+
+
+=========================================
+
 */
 
 -- Drop database if it exists  
