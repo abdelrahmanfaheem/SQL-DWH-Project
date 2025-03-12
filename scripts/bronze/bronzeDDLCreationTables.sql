@@ -1,4 +1,3 @@
-
  
  /*
 ===============================================================================
@@ -88,8 +87,8 @@ Go
 -- column CID	CNTRY
  
 create table bronze.erp_loc_a101(
-loc_id int ,
-locc_country varchar (50)
+cust_id int ,
+loc_country varchar (50)
 
 );
 Go
